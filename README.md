@@ -6,11 +6,11 @@ Pasukti
 
 Paversti
 
-Pastumti i kaire/de¨ine
+Pastumti i kaire/dešinę
 
-Pakelti i vir¨u/nuleisti i apacia
+Pakelti i viršų/nuleisti į apačią
 
-Padidinti/Suma¸inti
+Padidinti/Sumažinti
 
 updated A-frame version
 
