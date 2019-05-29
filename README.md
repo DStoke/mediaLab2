@@ -1,5 +1,19 @@
 # mediaLab2
 
+Prideti mygtukai valdyti objektui:
+
+Pasukti
+
+Paversti
+
+Pastumti i kaire/de¨ine
+
+Pakelti i vir¨u/nuleisti i apacia
+
+Padidinti/Suma¸inti
+
+updated A-frame version
+
 This lab aims to build your first Virtual reality (VR) app.
 
 There are many open source alternatives to build virtual reality application. One of the web based solution is A-frame. You can try a live examples: https://aframe.io/aframe/examples/
